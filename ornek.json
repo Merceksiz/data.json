@@ -1,0 +1,24 @@
+{
+	"info" : [
+		{"name" : "Zeynep Oz", "sex" : "female", "age" : 23, "city" : "İstanbul", "telefon" : 5554741474, "title" : "Profesör", "sektör" : "Müzik"},
+		{"name" : "Yuda Ahmet", "sex" : "male", "age" : 27, "city" : "İstanbul", "telefon" : 5782562525, "title" : "Reklamcı", "sektör" : "Pazarlama"},
+		{"name" : "Oğuz Keçe", "sex" : "male", "age" : 25, "city" : "İstanbul", "telefon" : 5554796958, "title" : "Mühendis", "sektör" : "Yazılım"},
+		{"name" : "Ali Gün", "sex" : "male", "age" : 22, "city" : "Sakarya", "telefon" : 5557471010, "title" : "İşveren", "sektör" : "Yazılım"},
+		{"name" : "Eda Kuzu", "sex" : "female", "age" : 23, "city" : "Sakarya", "telefon" : 5574785965, "title" : "Avukat", "sektör" : "Hukuk"},
+		{"name" : "Ulaş Yıl", "sex" : "male", "age" : 26, "city" : "Sakarya", "telefon" : 5574585955, "title" : "Mühendis", "sektör" : "Yazılım"},
+		{"name" : "Selin Sena", "sex" : "female", "age" : 20, "city" : "İstanbul", "telefon" : 555767665, "title" : "İşveren", "sektör" : "Yazılım"},
+		{"name" : "Bahar Ak", "sex" : "female", "age" : 18, "city" : "Kırklareli", "telefon" : 5546260645, "title" : "Maraba", "sektör" : "Tarım"},
+		{"name" : "Kemal Hür", "sex" : "male", "age" : 52, "city" : "Kırklareli", "telefon" : 5578988565, "title" : "İşveren", "sektör" : "Tarım"},
+		{"name" : "Yıldız Cev", "sex" : "female", "age" : 47, "city" : "Kırklareli", "telefon" : 8789202020, "title" : "Çiftçi", "sektör" : "Tarım"},
+		{"name" : "Kenan Asya", "sex" : "male", "age" : 51, "city" : "İstanbul", "telefon" : 5158848778, "title" : "İşveren", "sektör" : "Pazarlama"},
+		{"name" : "Nur Ten", "sex" : "female", "age" : 46, "city" : "İstanbul", "telefon" : 2350147859, "title" : "İşveren", "sektör" : "Sağlık"},
+		{"name" : "Fazıl Bez", "sex" : "male", "age" : 40, "city" : "İstanbul", "telefon" : 9856962547, "title" : "Hemşire", "sektör" : "Sağlık"},
+		{"name" : "Defne Pia", "sex" : "female", "age" : 18, "city" : "İstanbul", "telefon" : 8585252585, "title" : "Stajyer", "sektör" : "Hukuk"},
+		{"name" : "Elif Yan", "sex" : "female", "age" : 37, "city" : "İstanbul", "telefon" : 6969369636, "title" : "İşveren", "sektör" : "Hukuk"},
+		{"name" : "Veysi Emre", "sex" : "male", "age" : 38, "city" : "Ankara", "telefon" : 3603625051, "title" : "Doktor", "sektör" : "Sağlık"},
+		{"name" : "Esra Sena", "sex" : "female", "age" : 32, "city" : "Ankara", "telefon" : 8582014417, "title" : "İşveren", "sektör" : "Sağlık"},
+		{"name" : "Perihan Hal", "sex" : "female", "age" : 33, "city" : "Ankara", "telefon" : 7848996963, "title" : "Hemşire", "sektör" : "Sağlık"},
+		{"name" : "Remzi Han", "sex" : "male", "age" : 48, "city" : "Ankara", "telefon" : 3636363636, "title" : "Bankacı", "sektör" : "Bankacılık"},
+		{"name" : "Gül Hanım", "sex" : "female", "age" : 66, "city" : "Ankara", "telefon" : 7848996963, "title" : "İşveren", "sektör" : "Bankacılık"},
+	]
+} 
